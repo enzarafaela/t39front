@@ -1,7 +1,6 @@
 import { TeamMemberCardProps } from '../../TeamMemberCard';
 import felipe from '../../../assets/images/members/felipe.png';
 import teph from '../../../assets/images/members/teph.png';
-import dani from '../../../assets/images/members/dani.png';
 import jay from '../../../assets/images/members/jay.png';
 import carol from '../../../assets/images/members/carol.png';
 import frames from '../../../assets/images/members/frames.png';
