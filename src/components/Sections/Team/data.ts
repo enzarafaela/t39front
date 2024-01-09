@@ -29,16 +29,10 @@ export const data: TeamMemberData = [
   },
   {
     name: 'Stéphanie "Teph" Moraes',
-    teamRole: 'Especialista - Facilitação e Experiência',
+    teamRole: 'Especialista - Soft Skills e Carreira',
     imgSrc: teph,
     linkedinUrl: 'https://www.linkedin.com/in/stephaniemoraes/',
     goodreadsUrl: 'https://www.goodreads.com/user/show/161335548-st-phanie-santos',
-  },
-  {
-    name: 'Danielli "Dani" Olegário',
-    teamRole: 'Especialista - Soft Skills e Carreira',
-    imgSrc: dani,
-    linkedinUrl: 'https://www.linkedin.com/in/danielliolegario/',
   },
   {
     name: 'Jayelle Marchiore',
@@ -67,7 +61,7 @@ export const data: TeamMemberData = [
     githubUrl: 'https://github.com/jvpalves',
   },
   {
-    name: 'Thiago Antonio dos Santos Oliveira',
+    name: 'Thiago "Braddock" Antonio dos Santos Oliveira',
     teamRole: 'Especialista - Aprendizagem',
     imgSrc: braddock,
     linkedinUrl: 'https://www.linkedin.com/in/profthiago/',
