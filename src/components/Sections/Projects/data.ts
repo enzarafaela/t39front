@@ -24,27 +24,27 @@ export const PROJECTS_LIST = [
     description: 'Projeto que aborda efeitos colaterais do React, requisições e rotas com o React Router DOM. Você irá desenvolver uma aplicação semelhante ao iTunes onde, após fazer o login, será possível pesquisar por artistas e ver álbuns e músicas relacionadas a ele. Além disso, será possível favoritar músicas,vê-las em uma página separadas e alterar as informações de usuário.',
   },
   {
-    title: 'React Testing Library',
+    title: 'React Testing Library ✨ 20 pontos',
     image: rtl,
     description: 'Projeto em React e TypeScript onde serão desenvolvidas as habilidades de testes de integração com a biblioteca React Testing Library. Você realizará testes de integração com a React Testing Library em uma aplicação que simula uma pokedex.',
   },
   {
-    title: 'Online Store',
+    title: 'Online Store ✨ 30 pontos',
     image: onlineStore,
     description: 'Projeto em grupo que utiliza React e TypeScript para praticar todo conhecimento adquirido até o momento no módulo de Front-end. Você desenvolverá uma loja online, utilizando a API do Mercado Livre e nessa aplicação será possível adicionar e gerenciar produtos no seu carrinho e preencher um formulário de compra e avaliação dos produtos.',
   },
   {
-    title: 'TrybeWallet',
+    title: 'TrybeWallet ✨ 45 pontos',
     image: wallet,
     description: 'Projeto em React e TypeScript onde são desenvolvidas habilidades de estado global com Redux . Você irá desenvolver uma carteira de controle de gastos pessoais, com conversor de moedas, utilizando a API de câmbio para atualizar os valores de acordo com a cotação do dia. Além disso, irá testar sua aplicação utilizando React Testing Library.',
   },
   {
-    title: 'Star Wars - Planets Search',
+    title: 'Star Wars - Planets Search  ✨ 40 pontos',
     image: starWars,
     description: 'Projeto em React e TypeScript onde são desenvolvidas habilidades de estado global com Context API com auxílio de hooks customizados. Você desenvolverá uma aplicação que lista planetas do universo Star Wars, utilizando uma API. Nesta aplicação você poderá adicionar diversos filtros de busca para filtrar e ordenar os planetas que deseja. Além disso, irá garantir a qualidade do seu código com testes de integração com o React Testing Library.',
   },
   {
-    title: 'Recipes App',
+    title: 'Recipes App  ✨ 50 pontos',
     image: recipesApp,
     description: `Projeto em grupo, utilizando React e TypeScript para praticar todo conhecimento adquirido no módulo de Front-end.
     Você irá desenvolver uma aplicação de receitas, com diversas páginas, como: Login, Comidas, Bebidas, Detalhe da receita, Finalizados, Favoritos e Perfil. Para desenvolver essa aplicação você irá consumir duas APIs utilizando diversos endpoints.`,
